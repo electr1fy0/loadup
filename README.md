@@ -1,4 +1,4 @@
-# Blog Publisher Script
+# blogpush
 
 A rust script to automate the process of adding a new blog entry to a static site.
 It does the following:
